@@ -1,0 +1,9 @@
+# AI Agent and skill configurations
+.agents/
+.claude/
+agent/
+skills-lock.json
+
+# Environment and OS files
+.DS_Store
+*.local
